@@ -27,8 +27,8 @@ content:
   # Contact details (edit or remove options as required)
   email: liangmingjing@gacrnd.com
   phone: +86 158 1244 9572
-  address: 668 Jinshan Road East
-    street: Panyu District
+  address:
+    street: 668 Jinshan Road East, Panyu District
     city: Guangzhou
     region: Guangdong
     postcode: '511434'
