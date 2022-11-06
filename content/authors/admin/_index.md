@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liang Mingjing 梁铭靖
+title: Liang Mingjing
 
 # Full name (for SEO)
 first_name: Mingjing
