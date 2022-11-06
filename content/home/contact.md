@@ -40,16 +40,16 @@ content:
   directions: Enter Building 1 and go to Xlab on Floor 9
   office_hours:
     - 'Weekday 9:30 to 17:30'
-  # appointment_url: 'https://calendly.com'
-  # contact_links:
-  #   - icon: twitter
-  #     icon_pack: fab
-  #     name: DM Me
-  #     link: 'https://twitter.com/Twitter'
-  #   - icon: video
-  #     icon_pack: fas
-  #     name: Zoom Me
-  #     link: 'https://zoom.com'
+  appointment_url: 'https://calendly.com'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/Twitter'
+    - icon: video
+      icon_pack: fas
+      name: Zoom Me
+      link: 'https://zoom.com'
 
 design:
   columns: '2'
