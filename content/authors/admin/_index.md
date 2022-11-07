@@ -77,6 +77,6 @@ email: 'liangmingjing849@163.com'
 highlight_name: true
 ---
 
-Liang Mingjing is a Decision & Planning Engineer for autonomous vehicle at the GAC R&D Center. His research interests include robotics, reinforcement learning, self-driving car. He is the member of Xlab DnP group in GAC R&D Center, which develops decision and planning system for autonomous vehicle.
+I am a Decision & Planning Engineer for autonomous vehicle at the GAC R&D Center. My research interests include robotics, reinforcement learning, self-driving car. I am one of the member of Xlab DnP group in GAC R&D Center, which develops decision and planning system for autonomous vehicle.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
