@@ -39,7 +39,7 @@ experience:
         * Linear System
         * ...
 
-    - title: Master of Science in Mechanical Engineering
+  - title: Master of Science in Mechanical Engineering
     company: National University of Singapore Research Institue (Suzhou)
     company_url: 'http://www.nusri.cn/'
     company_logo: nus
@@ -47,15 +47,15 @@ experience:
     date_start: '2019-09-01'
     date_end: '2020-06-31'
     description: 
-  
-  - title: Bachelor in Mechanical Engineering
-    company: Sichuan Universiy
-    company_url: 'https://www.scu.edu.cn/'
-    company_logo: scu
-    location: Sichuan, China
-    date_start: '2016-09-01'
-    date_end: '2019-06-31'
-    description: 
+
+- title: Bachelor in Mechanical Engineering
+  company: Sichuan Universiy
+  company_url: 'https://www.scu.edu.cn/'
+  company_logo: scu
+  location: Sichuan, China
+  date_start: '2016-09-01'
+  date_end: '2019-06-31'
+  description: 
 
 design:
   columns: '2'
