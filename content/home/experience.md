@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Education
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Master of Science in Mechanical Engineering
+    company: National University of Singapore
+    company_url: 'https://www.nus.edu.sg/'
+    company_logo: nus
+    location: Singapore
+    date_start: '2020-08-01'
+    date_end: '2021-06-30'
     description: |2-
-        Responsibilities include:
+        Finished the project about the fluid performance and the fins machinism of a bionic mantaray robot. And completed courses include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Deep Learning
+        * Neural Network
+        * Advance Robotics
+        * Machine Vision
+        * Linear System
+        * ...
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    - title: Master of Science in Mechanical Engineering
+    company: National University of Singapore Research Institue (Suzhou)
+    company_url: 'http://www.nusri.cn/'
+    company_logo: nus
+    location: Jiangsu, China
+    date_start: '2019-09-01'
+    date_end: '2020-06-31'
+    description: 
+  
+  - title: Bachelor in Mechanical Engineering
+    company: Sichuan Universiy
+    company_url: 'https://www.scu.edu.cn/'
+    company_logo: scu
+    location: Sichuan, China
+    date_start: '2016-09-01'
+    date_end: '2019-06-31'
+    description: 
 
 design:
   columns: '2'

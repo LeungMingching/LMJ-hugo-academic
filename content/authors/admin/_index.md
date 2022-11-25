@@ -35,7 +35,7 @@ education:
     - course: BSc in Mechanical Engineering
       institution: National University of Singapore Research Insitute (Suzhou)
       year: 2020
-    - course: BSc in Mechanical Engineering
+    - course: Bachelor in Mechanical Engineering
       institution: Sichuan Universiy
       year: 2020
 
