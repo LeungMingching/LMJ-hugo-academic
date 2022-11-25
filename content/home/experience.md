@@ -48,14 +48,14 @@ experience:
     date_end: '2020-06-31'
     description: 
 
-- title: Bachelor in Mechanical Engineering
-  company: Sichuan Universiy
-  company_url: 'https://www.scu.edu.cn/'
-  company_logo: scu
-  location: Sichuan, China
-  date_start: '2016-09-01'
-  date_end: '2019-06-31'
-  description: 
+  - title: Bachelor in Mechanical Engineering
+    company: Sichuan Universiy
+    company_url: 'https://www.scu.edu.cn/'
+    company_logo: scu
+    location: Sichuan, China
+    date_start: '2016-09-01'
+    date_end: '2019-06-31'
+    description: 
 
 design:
   columns: '2'
