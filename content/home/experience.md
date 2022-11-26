@@ -45,7 +45,7 @@ experience:
     company_logo: 
     location: Jiangsu, China
     date_start: '2019-09-01'
-    date_end: ''
+    date_end: '2020-06-30'
     description: 
 
   - title: Bachelor in Mechanical Engineering
@@ -54,7 +54,7 @@ experience:
     company_logo: 
     location: Sichuan, China
     date_start: '2016-09-01'
-    date_end: ''
+    date_end: '2019-06-30'
     description: 
 
 design:
