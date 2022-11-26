@@ -25,7 +25,7 @@ experience:
   - title: Master of Science in Mechanical Engineering
     company: National University of Singapore
     company_url: 'https://www.nus.edu.sg/'
-    company_logo: nus.jpg
+    # company_logo: nus.jpg
     location: Singapore
     date_start: '2020-08-01'
     date_end: '2021-06-30'
@@ -42,7 +42,7 @@ experience:
   - title: Master of Science in Mechanical Engineering
     company: National University of Singapore Research Institue (Suzhou)
     company_url: 'http://www.nusri.cn/'
-    company_logo: nus.jpg
+    # company_logo: nus.jpg
     location: Jiangsu, China
     date_start: '2019-09-01'
     date_end: '2020-06-31'
@@ -51,7 +51,7 @@ experience:
   - title: Bachelor in Mechanical Engineering
     company: Sichuan Universiy
     company_url: 'https://www.scu.edu.cn/'
-    company_logo: scu.png
+    # company_logo: scu.png
     location: Sichuan, China
     date_start: '2016-09-01'
     date_end: '2019-06-31'
