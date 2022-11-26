@@ -54,7 +54,7 @@ experience:
     company_logo: 
     location: Sichuan, China
     date_start: '2016-09-01'
-    date_end: '2019-06-31'
+    date_end: ''
     description: 
 
 design:
